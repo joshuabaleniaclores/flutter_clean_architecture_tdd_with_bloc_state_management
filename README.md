@@ -1,4 +1,4 @@
-# flutter_clean_architecture_tdd_with_bloc_state_management
+# Flutter Clean Architecture
 
 A new Flutter project.
 
