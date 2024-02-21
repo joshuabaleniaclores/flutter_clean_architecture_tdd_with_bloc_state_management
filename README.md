@@ -1,10 +1,10 @@
-# Flutter Clean Architecture
+# Numbers Trivia
 
-A new Flutter project.
+I am following Reso Coder's youtube tutorials.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for learning clean architecture with test driven development and bloc state management. 
 
 A few resources to get you started if this is your first Flutter project:
 
